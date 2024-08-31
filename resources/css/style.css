@@ -1,0 +1,30 @@
+body {
+    font-family: helvetica;
+    padding: 100px 120px;   
+}
+
+header {
+    background-image: url("/Users/atang/Desktop/Projects/Arts---Crafts/resources/pattern.jpeg");
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.headings {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.brushes .headings{
+    background-color: mediumspringgreen;
+}
+
+.frames .headings{
+    background-color: lightcoral;
+}
+
+.paint .headings{
+    background-color: skyblue;
+}
